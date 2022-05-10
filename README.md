@@ -9,5 +9,5 @@ first get this config.json file on your pc then find the bracket installation on
 for eg:-
 i have bracket installation on Program Files in C drive
 so i open to :C\Program Files\Brackets\www
-then i replace the config.json present there with this config.json
-restart brackets
+then i replace the config.json present there with this config.json,
+then restart brackets
